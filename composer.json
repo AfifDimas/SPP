@@ -1,0 +1,16 @@
+{
+    "name": "pembayaran/pembayaran_spp",
+    "description": "sistem pembayaran Spp online",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Afif Dimas Yusnanda",
+            "email": "afifdimas0112@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.69",
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
